@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Pramuda Kulathunga</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pramuda Kulathunga</h1>
 <h3 align="center">A arduino coder & android frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pramudakulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="pramudakulathunga" /> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+Pramuda+Kulathunga's+Github;Computer+Engineering+Student;Always+be+creative"></a>
+</p>
 
 ---
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
 - 🌱 I’m currently learning **Faculty of Engineering, University of Jaffna**
 
 - 📫 How to reach me **pramudakulathunga@gmail.com**
