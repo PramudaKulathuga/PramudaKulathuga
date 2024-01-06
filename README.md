@@ -1,7 +1,12 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pramuda Kulathunga</h1>
-<h3 align="center">A arduino coder & android frontend developer from Sri Lanka</h3>
+<h3 align="center">Arduino Coder & Android Frontend Developer From Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pramudakulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="pramudakulathunga" /> </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Focus-Android%20Frontend%20Developing-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+Pramuda+Kulathunga's+Github;Computer+Engineering+Student;Always+be+creative"></a>
 </p>
