@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pramuda Kulathunga</h1>
 <h3 align="center">Arduino Coder & Android Frontend Developer From Sri Lanka</h3>
 
