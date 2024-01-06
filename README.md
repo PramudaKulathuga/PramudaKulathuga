@@ -5,6 +5,7 @@
 <h3 align="center">Arduino Coder & Android Frontend Developer From Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pramudakulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="pramudakulathunga" /> </p>
+
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-Android%20Frontend%20Developing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
@@ -25,24 +26,18 @@
 - 📫 How to reach me **pramudakulathunga@gmail.com**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PramudaKulathuga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-
----
-
 <br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <p align="left">
 <a href="https://linkedin.com/in/pramuda-kulathunga-8a04561ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramuda-kulathunga-8a04561ba" height="30" width="40" /></a>
 <a href="https://fb.com/pramuda sandeepa kulathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramuda sandeepa kulathunga" height="30" width="40" /></a>
 </p>
-<a href="https://linkedin.com/in/pramuda-kulathunga-8a04561ba" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<br><br>
+<br>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
