@@ -25,9 +25,7 @@
 - 🌱 I’m currently learning **Faculty of Engineering, University of Jaffna** <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 📫 How to reach me **pramudakulathunga@gmail.com**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PramudaKulathunga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-<br>
+  
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
