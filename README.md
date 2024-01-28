@@ -25,11 +25,8 @@
 - 🌱 I’m currently learning **Faculty of Engineering, University of Jaffna** <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 📫 How to reach me **pramudakulathunga@gmail.com**
-
-  ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=PramudaKulathunga&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 
@@ -39,7 +36,7 @@
 <a href="https://www.facebook.com/PramudaKulathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramuda sandeepa kulathunga" height="30" width="40" /></a> 
 <a href="https://twitter.com/pramudakule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramudakule" height="30" width="40" /></a>
 </p>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
