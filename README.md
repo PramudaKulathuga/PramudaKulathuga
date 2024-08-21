@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pramudakulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="pramudakulathunga" /> </p>
 
  <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Android%20Frontend%20Developing-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Developing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
